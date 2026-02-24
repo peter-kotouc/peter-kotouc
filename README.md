@@ -28,5 +28,3 @@
 
 ### 📬 Connect with me
 [![Website](https://img.shields.io/badge/Portfolio-peter--kotouc.com-darkgreen?style=for-the-badge&logo=homepage&logoColor=white)](https://peter-kotouc.com)
-![English](https://img.shields.io/badge/English-Fluent-brightgreen?style=flat-square)
-![German](https://img.shields.io/badge/German-Fluent-brightgreen?style=flat-square)
