@@ -16,13 +16,13 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
 ### 🎓 Academic Focus
-* [cite_start]**Current:** Master in Software Engineering / Internet Computing @ TU Wien[cite: 17].
-* [cite_start]**BSc Thesis:** *Bug-Fix Commit Recognition, Visualization and Interpretation* (Grade: Sehr Gut / Excellent)[cite: 19, 39].
+* **Current:** Master in Software Engineering / Internet Computing @ TU Wien
+* **BSc Thesis:** *Bug-Fix Commit Recognition, Visualization and Interpretation* (Grade: Sehr Gut / Excellent)
 
 ### 🚀 Featured Projects
-* [cite_start]**IoT Data Streaming:** Distributed processing for IoT systems using Kafka, Storm, and Redis[cite: 35, 36].
-* [cite_start]**Club Management System:** Full-stack Angular/Spring Boot app with Stripe API integration and CI/CD[cite: 33].
-* [cite_start]**Portfolio Management:** End-to-end encrypted document management for Mobile and Desktop[cite: 34].
+* **IoT Data Streaming:** Distributed processing for IoT systems using Kafka, Storm, and Redis
+* **Club Management System:** Full-stack Angular/Spring Boot app with Stripe API integration and CI/CD
+* **Portfolio Management:** End-to-end encrypted document management for Mobile and Desktop
 
 ---
 
