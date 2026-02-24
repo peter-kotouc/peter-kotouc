@@ -27,4 +27,4 @@
 ---
 
 ### 📬 Connect with me
-[![Website](https://img.shields.io/badge/Portfolio-peter--kotouc.com-darkgreen?style=for-the-badge&logo=homepage&logoColor=white)](https://peter-kotouc.com)
+[![Website](https://img.shields.io/badge/Website-peter--kotouc.com-darkgreen?style=for-the-badge&logo=homepage&logoColor=white)](https://peter-kotouc.com)
