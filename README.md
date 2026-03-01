@@ -28,6 +28,7 @@
 
 ### 📬 Connect with me
 [![Website](https://img.shields.io/badge/Website-peter--kotouc.com-darkgreen?style=for-the-badge&logo=homepage&logoColor=white)](https://peter-kotouc.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Peter--Kotouč-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/peter-kotouc)
 
 <div align="center">
   <a href="https://linkedin.com/in/peter-kotouc">
