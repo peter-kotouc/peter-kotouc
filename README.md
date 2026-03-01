@@ -28,3 +28,12 @@
 
 ### 📬 Connect with me
 [![Website](https://img.shields.io/badge/Website-peter--kotouc.com-darkgreen?style=for-the-badge&logo=homepage&logoColor=white)](https://peter-kotouc.com)
+
+<div align="center">
+  <a href="https://linkedin.com/in/peter-kotouc">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://peter-kotouc.com">
+    <img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=react&logoColor=white" alt="Website" />
+  </a>
+</div>
