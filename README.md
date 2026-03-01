@@ -19,7 +19,7 @@
 * **Current:** Master in Software Engineering / Internet Computing @ TU Wien
 * **BSc Thesis:** *Bug-Fix Commit Recognition, Visualization and Interpretation* (Grade: Sehr Gut / Excellent)
 
-### 🚀 Featured Projects
+### 🚀 Previous Projects
 * **IoT Data Streaming:** Distributed processing for IoT systems using Kafka, Storm, and Redis
 * **Club Management System:** Full-stack Angular/Spring Boot app with Stripe API integration and CI/CD
 * **Portfolio Management:** End-to-end encrypted document management for Mobile and Desktop
