@@ -15,6 +15,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka)
 
+And many more ...
+
 ### 🎓 Academic Focus
 * **Current:** Master in Software Engineering / Internet Computing @ TU Wien
 * **BSc Thesis:** *Bug-Fix Commit Recognition, Visualization and Interpretation* (Grade: Sehr Gut / Excellent)
