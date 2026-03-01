@@ -28,6 +28,10 @@ And many more ...
 
 ---
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
 ### 📬 Connect with me
 [![Website](https://img.shields.io/badge/Website-peter--kotouc.com-darkgreen?style=flat&logo=homepage&logoColor=white)](https://peter-kotouc.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Peter%20Kotouč-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/peter-kotouc)
