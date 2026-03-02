@@ -20,6 +20,7 @@ And many more ...
 ### 🎓 Academic Focus
 * **Current:** Master in Software Engineering / Internet Computing @ TU Wien
 * **BSc Thesis:** *Bug-Fix Commit Recognition, Visualization and Interpretation Techniques from Software Repositories*
+
 (Grade: Sehr Gut / Excellent)
 
 ### 🚀 Previous Projects
