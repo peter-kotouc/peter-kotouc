@@ -26,6 +26,8 @@ And many more ...
 * **Club Management System:** Full-stack Angular/Spring Boot app with Stripe API integration and CI/CD
 * **Portfolio Management:** End-to-end encrypted document management for Mobile and Desktop
 
+Also look at the pinned open-source projects :)
+
 ---
 
 ### 📬 Connect with me
