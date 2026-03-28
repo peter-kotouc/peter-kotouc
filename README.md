@@ -22,6 +22,8 @@ And many more ...
 * **BSc Thesis:** *Bug-Fix Commit Recognition, Visualization and Interpretation Techniques from Software Repositories* * [**Issue #240**](https://github.com/INSO-World/Binocular/issues/240)
   * **Grade:** Sehr Gut / Excellent
 
+* **BSc Thesis:** *Bug-Fix Commit Recognition, Visualization and Interpretation Techniques from Software Repositories* [↗](https://github.com/INSO-World/Binocular/issues/240) <br> (Grade: Sehr Gut / Excellent)
+
 ### 🚀 Previous Projects
 * **IoT Data Streaming:** Distributed processing for IoT systems using Kafka, Storm, and Redis
 * **Club Management System:** Full-stack Angular/Spring Boot app with Stripe API integration and CI/CD
