@@ -19,7 +19,8 @@ And many more ...
 
 ### 🎓 Academic Focus
 * **Current:** Master in Software Engineering / Internet Computing @ TU Wien
-* **BSc Thesis:** *Bug-Fix Commit Recognition, Visualization and Interpretation Techniques from Software Repositories* <br> (Grade: Sehr Gut / Excellent)
+* **BSc Thesis:** *Bug-Fix Commit Recognition, Visualization and Interpretation Techniques from Software Repositories* * [**Issue #240**](https://github.com/INSO-World/Binocular/issues/240)
+  * **Grade:** Sehr Gut / Excellent
 
 ### 🚀 Previous Projects
 * **IoT Data Streaming:** Distributed processing for IoT systems using Kafka, Storm, and Redis
