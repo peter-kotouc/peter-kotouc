@@ -1,6 +1,6 @@
 # Hi, I'm Peter Kotouč 👋
 
-**MSc Student @ TU Wien | Software Engineer**
+**MSc Student @ TU Wien | Full-Stack Developer**
 
 ---
 
